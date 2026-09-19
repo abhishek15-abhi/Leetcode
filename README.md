@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhishek15-abhi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhishek15-abhi/Leetcode/tree/master/0169-majority-element) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishek15-abhi/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/abhishek15-abhi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishek15-abhi/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abhishek15-abhi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
