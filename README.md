@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhishek15-abhi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek15-abhi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhishek15-abhi/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/abhishek15-abhi/Leetcode/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishek15-abhi/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/abhishek15-abhi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/abhishek15-abhi/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishek15-abhi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhishek15-abhi/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/abhishek15-abhi/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishek15-abhi/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhishek15-abhi/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/abhishek15-abhi/Leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
