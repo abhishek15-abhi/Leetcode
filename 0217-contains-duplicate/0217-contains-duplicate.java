@@ -5,7 +5,7 @@ class Solution {
         if(h.containsKey(nums[i]))
             return true;
         else
-            h.put(nums[i],false);
+            h.put(nums[i],true);
         }
         return false;
     }
